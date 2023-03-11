@@ -1,2 +1,2 @@
-# bmf-theatre-service
-BookMyFlick Theatre Service
+# bmf-theatre-api
+BookMyFlick Theatre API
